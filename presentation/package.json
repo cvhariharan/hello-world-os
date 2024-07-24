@@ -16,5 +16,8 @@
   },
   "slidev": {
     "colorSchema": "light"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.45.3"
   }
 }

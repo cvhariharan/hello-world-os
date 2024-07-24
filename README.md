@@ -24,9 +24,6 @@ qemu-system-i386 -kernel kernel.bin
 All these commands can also be executed using `make`.
 
 ## Presentation
-
-Navigate to `presentation` folder and run
 ```
-npm i
-npm run dev
+make presentation
 ```

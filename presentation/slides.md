@@ -122,6 +122,9 @@ multiboot_header_t __attribute__((section(".multiboot"))) header = {
 };
 ```
 ````
+
+### Links
+- https://www.gnu.org/software/grub/manual/multiboot/multiboot.html
 ---
 transition: fade-out
 ---
@@ -156,6 +159,8 @@ void _start() {
 - The fonts are from the bios.
 - In real-mode, bios functions can be used by triggering software interrupts to print text on screen.
 -->
+### Links
+- https://wiki.osdev.org/Text_UI
 ---
 transition: fade-out
 ---
@@ -232,3 +237,15 @@ layout: center
 ---
 
 # DEMO
+
+---
+transition: fade-out
+layout: center
+---
+
+# Links
+- https://github.com/cvhariharan/hello-world-os
+- https://wiki.osdev.org/Expanded_Main_Page
+- https://intermezzos.github.io/book/first-edition/preface.html
+- https://os.phil-opp.com/
+- https://github.com/cvhariharan/WindmillOS
